@@ -16,8 +16,8 @@ Here's a little about me:
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@%EA%B9%80%EB%8F%99%EC%84%B1-p3u)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your_email@gmail.com)  
 
 ---
 
@@ -26,5 +26,11 @@ Here's a little about me:
 
 ---
 
-## 🔥 Fun Animation
-![Snake Animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+## 🎉 GitHub Contributions
+Here’s how active I am on GitHub this year:
+
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=react-dark&hide_border=true)
+
+---
+
+Feel free to explore my repositories and connect with me! 😄
