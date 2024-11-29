@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub profile!
 
-<!--
-**dongsung1221/dongsung1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Your Name]**, a passionate developer who loves creating, learning, and sharing knowledge. 🚀  
+Here's a little about me:
 
-Here are some ideas to get you started:
+- 🌱 **I’m currently learning:** [Your Skills/Topics]  
+- 💻 **I’m working on:** [Your Current Projects]  
+- 💬 **Ask me about:** [Your Expertise]  
+- ⚡ **Fun fact:** [Fun Fact About You]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
+
+---
+
+## 🚀 Languages and Tools
+![Languages](https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,git,github&perline=6)
+
+---
+
+## 🔥 Fun Animation
+![Snake Animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
