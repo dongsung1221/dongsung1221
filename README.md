@@ -1,6 +1,7 @@
+# ![Section Divider](1.jpg)
 # Hi there! 👋 Welcome to my GitHub profile!
 
-![Section Divider](1.jpg)
+
 
 I'm **김동성**, a student at the **College of Art & Technology, Chung-Ang University**.  
 I am driven by creativity, a love for technology, and the desire to bring ideas to life. 🎨💻  
