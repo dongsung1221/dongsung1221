@@ -4,7 +4,7 @@ I am driven by creativity, a love for technology, and the desire to bring ideas 
 Here's a little more about me:
 
 
-
+![Section Divider](2.jpg)
 
 
 ## 🌱 About Me
@@ -24,7 +24,7 @@ Here's a little more about me:
 
 
 
-![Section Divider](2.jpg)
+
 
 
 
