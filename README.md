@@ -8,7 +8,7 @@ Here's a little more about me:
 
 
 
-![Section Divider](2.jpg)
+
 
 ## 🌱 About Me
 
@@ -23,11 +23,11 @@ Here's a little more about me:
 ## 🌟 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-![Section Divider](3.jpg)
 
 
 
 
+![Section Divider](2.jpg)
 
 
 
@@ -38,8 +38,11 @@ Feeling curious? Meet today’s animal spirit!
 
 (Refresh this page for a new animal!)
 
----
+
 
 ## 📫 Connect with Me
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@%EA%B9%80%EB%8F%99%EC%84%B1-p3u)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dongsung1939@gmail.com)
+
+
+![Section Divider](3.jpg)
