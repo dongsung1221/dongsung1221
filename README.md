@@ -32,11 +32,6 @@ Here's a little more about me:
 
 
 
-### 🦊 **Daily Animal Encounter**
-Feeling curious? Meet today’s animal spirit!  
-![Fox](https://randomfox.ca/images/1.jpg)
-
-(Refresh this page for a new animal!)
 
 
 
